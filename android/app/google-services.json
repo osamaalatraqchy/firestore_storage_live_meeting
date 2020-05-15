@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627239649265",
+    "firebase_url": "https://course-b3c7a.firebaseio.com",
+    "project_id": "course-b3c7a",
+    "storage_bucket": "course-b3c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627239649265:android:c7f4e3c002bbd3896a0e50",
+        "android_client_info": {
+          "package_name": "com.example.firestorelive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627239649265-ouib7ik2ra50qevm2mre0lnigvlpl5m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8fBR987abwsxT5qDBTxzfnXrN82YHS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627239649265-ouib7ik2ra50qevm2mre0lnigvlpl5m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
